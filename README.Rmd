@@ -34,6 +34,7 @@ pak::pak("ymchyl/SSC_R_exp1")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
+devtools::install_github("ymchyl/SSC_R_exp1")
 library(SCCTempConverter)
 ## basic example code
 F_to_C(30);

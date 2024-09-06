@@ -3,3 +3,8 @@ Type: Package
 Title: Temperature Conversion Package for Demonstration
 Version: 0.0.1.0
 RoxygenNote: 7.3.2
+Authors@R: 
+    person("Ye", "Ma", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
